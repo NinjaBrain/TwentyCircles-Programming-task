@@ -10,6 +10,8 @@ package
 	 */
 	public class MyCircle extends Sprite
 	{
+		//här är cirkel klassen, i main skapar jag en variabel som är en instans av denna klassen
+		//Det gör att alla instanser får denna klassens egenskaper och placeras på slumpade kordinater
 		
 		public function MyCircle():void 
 		{
